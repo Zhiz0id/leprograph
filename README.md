@@ -19,6 +19,6 @@ Python 2.6+, urllib2, cookielib, BeautifulSoup, sqlite3, pydot, pygraph
 
 Author
 ------
-** Yura Beznos **
+**Yura Beznos**
 + http://you-ra.info
  
