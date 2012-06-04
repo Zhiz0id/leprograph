@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: lepro.save="1"; path="/"; domain=".leprosorium.ru"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: lepro.sid="YOUR SID HERE"; path="/"; domain=".leprosorium.ru"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: lepro.uid="YOUR UID HERE"; path="/"; domain=".leprosorium.ru"; path_spec; domain_dot; discard; version=0
